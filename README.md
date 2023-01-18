@@ -7,7 +7,7 @@ Esta es una aplicacion de listado de personas que puede resgistrar en memoria lo
 **Thiego Véliz**
 
 ## Ver ejemplo en vivo
-- [https://undertaker-gt.github.io/Calculadora/]
+- [ https://undertaker-gt.github.io/Listado-de-Personas/ ]
 
 ## Instalación 
 Este proyecto no necesita de instalacion. Simplemente abre la carperta o haz doble click en el .html
